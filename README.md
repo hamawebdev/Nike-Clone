@@ -15,7 +15,7 @@ Here are some snapshots of the Nike Clone project to give you a visual taste of 
 ![Product Showcase](public/review2.png)
 
 
-![Special Offers](public/review2.png)
+![Special Offers](public/review3.png)
 
 
 ![Testimonials](public/review4.png)
