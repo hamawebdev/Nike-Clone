@@ -5,7 +5,26 @@ Welcome to the **Nike Clone** – a meticulously crafted front-end web applicati
 Whether you're looking for a developer who can deliver pixel-perfect designs or someone who understands the nuances of user experience, this project demonstrates my ability to bring your vision to reality. Let’s create something extraordinary together!  
 
 ---
+## 📸 **Project Preview**
 
+Here are some snapshots of the Nike Clone project to give you a visual taste of what’s in store:
+
+![Home Page](public/review1.png)
+
+
+![Product Showcase](public/review2.png)
+
+
+![Special Offers](public/review2.png)
+
+
+![Testimonials](public/review4.png)
+
+
+![Responsive Design](public/review5.png)
+
+
+---
 ## ⚙️ **Tech Stack**  
 
 - **Tailwind CSS**: For lightning-fast, utility-first styling that ensures clean, maintainable, and scalable code.  
